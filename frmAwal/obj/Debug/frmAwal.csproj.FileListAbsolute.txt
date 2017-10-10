@@ -1,0 +1,39 @@
+D:\vb\Metode Numerik\frmAwal\bin\Debug\frmAwal.exe.config
+D:\vb\Metode Numerik\frmAwal\bin\Debug\frmAwal.exe
+D:\vb\Metode Numerik\frmAwal\bin\Debug\frmAwal.pdb
+D:\vb\Metode Numerik\frmAwal\obj\Debug\frmAwal.csprojResolveAssemblyReference.cache
+D:\vb\Metode Numerik\frmAwal\obj\Debug\frmAwal.Form1.resources
+D:\vb\Metode Numerik\frmAwal\obj\Debug\frmAwal.Properties.Resources.resources
+D:\vb\Metode Numerik\frmAwal\obj\Debug\frmAwal.csproj.GenerateResource.Cache
+D:\vb\Metode Numerik\frmAwal\obj\Debug\frmAwal.exe
+D:\vb\Metode Numerik\frmAwal\obj\Debug\frmAwal.pdb
+D:\vb\Metode Numerik\frmAwal\obj\Debug\frmAwal.Pilihan.frmInterpolasi.resources
+F:\Metode Numerik\frmAwal\bin\Debug\frmAwal.exe.config
+F:\Metode Numerik\frmAwal\obj\Debug\frmAwal.exe
+F:\Metode Numerik\frmAwal\obj\Debug\frmAwal.pdb
+C:\Users\Denny Ho\Desktop\Metode Numerik\frmAwal\bin\Debug\frmAwal.exe.config
+C:\Users\Denny Ho\Desktop\Metode Numerik\frmAwal\obj\Debug\frmAwal.exe
+C:\Users\Denny Ho\Desktop\Metode Numerik\frmAwal\obj\Debug\frmAwal.pdb
+C:\Users\Denny Ho\Desktop\Metode Numerik\frmAwal\bin\Debug\frmAwal.exe
+C:\Users\Denny Ho\Desktop\Metode Numerik\frmAwal\bin\Debug\frmAwal.pdb
+C:\Users\Denny Ho\Desktop\Metode Numerik\frmAwal\obj\Debug\frmAwal.csprojResolveAssemblyReference.cache
+C:\Users\Denny Ho\Desktop\Metode Numerik\frmAwal\obj\Debug\frmAwal.Form1.resources
+C:\Users\Denny Ho\Desktop\Metode Numerik\frmAwal\obj\Debug\frmAwal.Pilihan.frmInterpolasi.resources
+C:\Users\Denny Ho\Desktop\Metode Numerik\frmAwal\obj\Debug\frmAwal.Properties.Resources.resources
+C:\Users\Denny Ho\Desktop\Metode Numerik\frmAwal\obj\Debug\frmAwal.csproj.GenerateResource.Cache
+D:\vb\Metode Numerik\frmAwal\obj\Debug\frmAwal.Pilihan.frmRegresi.resources
+D:\Semester 4\Metode Numerik\Metode Numerik\frmAwal\bin\Debug\frmAwal.exe.config
+D:\Semester 4\Metode Numerik\Metode Numerik\frmAwal\obj\Debug\frmAwal.exe
+D:\Semester 4\Metode Numerik\Metode Numerik\frmAwal\obj\Debug\frmAwal.pdb
+D:\Semester 4\Metode Numerik\Metode Numerik\frmAwal\obj\Debug\frmAwal.csprojResolveAssemblyReference.cache
+D:\Semester 4\Metode Numerik\Metode Numerik\frmAwal\obj\Debug\frmAwal.Form1.resources
+D:\Semester 4\Metode Numerik\Metode Numerik\frmAwal\obj\Debug\frmAwal.Pilihan.frmInterpolasi.resources
+D:\Semester 4\Metode Numerik\Metode Numerik\frmAwal\obj\Debug\frmAwal.Pilihan.frmRegresi.resources
+D:\Semester 4\Metode Numerik\Metode Numerik\frmAwal\obj\Debug\frmAwal.Properties.Resources.resources
+D:\Semester 4\Metode Numerik\Metode Numerik\frmAwal\obj\Debug\frmAwal.csproj.GenerateResource.Cache
+D:\Semester 4\Metode Numerik\Metode Numerik\frmAwal\bin\Debug\frmAwal.exe
+D:\Semester 4\Metode Numerik\Metode Numerik\frmAwal\bin\Debug\frmAwal.pdb
+D:\vb\Metode Numerik\frmAwal\obj\Debug\frmAwal.Pilihan.frmTurunan.resources
+D:\vb\Metode Numerik\frmAwal\obj\Debug\frmAwal.Pilihan.frmIntegralTrapesium.resources
+D:\vb\Metode Numerik\frmAwal\obj\Debug\frmAwal.Pilihan.frmMetodeSimson.resources
+D:\vb\Metode Numerik\frmAwal\obj\Debug\frmAwal.Pilihan.frmMetodeEuler.resources
